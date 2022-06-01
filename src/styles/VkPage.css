@@ -1,0 +1,42 @@
+.vkpage {
+    max-width: 1300px;
+    width: 100%;
+}
+
+.page-photo {
+    padding: 15px;
+    margin: 15px;
+    border-radius: 4px;
+    display: grid;
+    border: 1px solid rgb(144, 143, 143);
+}
+
+.photo-btn {
+    margin-top: 15px;
+}
+
+.page-info {
+    margin: 15px 20px;
+    width: 100%;
+    padding: 20px;
+    border: 1px solid rgb(144, 143, 143);
+}
+
+#inputGroupSelect01 {
+    color: #fff;
+    background: none;
+    border-color: rgb(41, 40, 40);
+}
+
+.page-birthday {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    padding: 35px;
+}
+
+.page-contact {
+    justify-content: space-between;
+    padding: 0 35px;
+}
