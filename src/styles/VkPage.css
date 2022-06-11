@@ -9,6 +9,7 @@
     border-radius: 4px;
     display: grid;
     border: 1px solid rgb(144, 143, 143);
+    max-height: 360px;
 }
 
 .photo-btn {
@@ -39,4 +40,16 @@
 .page-contact {
     justify-content: space-between;
     padding: 0 35px;
+}
+
+.hide {
+    display: none;
+}
+
+.page-friends {
+    border: 1px solid rgb(144, 143, 143);
+}
+
+.bq {
+    width: 800px;
 }
